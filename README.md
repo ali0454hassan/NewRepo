@@ -45,10 +45,7 @@ WebApplication1/
 - Use `int.TryParse()` instead of `int.Parse()` to handle invalid inputs gracefully.
 
 ## 🤝 Contributors
-- **[Your Name]**
-- **Emaan**
-- **Momin**
-- **Natasha**
+- **[Ali Hassan khichi 64]**
 
 ## 📜 License
 This project is open-source under the **MIT License**.
